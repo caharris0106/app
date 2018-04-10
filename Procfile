@@ -1,2 +1,1 @@
-web: gunicorn web_app_sublime:app
-
+web: gunicorn app:app
